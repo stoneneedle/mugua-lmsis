@@ -8,6 +8,8 @@ You may find a working example of this code at TBD.
 
 Mugua is a Learning Management and Student Information System (LMSIS), an acronym derived from two technologies, the Learning Management System (LMS), and the Student Information System (SIS).
 
+The name Mugua is a Chinese word meaning "papaya."
+
 Typically these technologies have been separate and historically somewhat costly on their own. My intent is to combine them and then reduce the costs of software and server maintenance such that they would be affordable to small private schools and public ones alike, though overall the project would be less feature-rich than say Canvas (an LMS) or PowerSchool/Schoology (PowerSchool being the SIS and Schoology being its LMS).
 
 This is the fourth project completed for the Hofstra Quickstart Web Development Bootcamp.
